@@ -1,9 +1,17 @@
 ## Hi there 👋
 LEGO LOVERS, - Love buiding stuffs
 
-- 🔭 I’ve been working in tech for over 10 years, with a deep understanding of both hardware and software. I’m pursuing a master’s degree in Computer Science and currently learning two languages.
-- 🌱 I’m currently learning Japanese and also Chinnese.
-- I love to learn about AI and web developments
+🔧💻 10+ years in tech with hands-on experience in both hardware and software.
+
+🎓 Master’s in Computer Science (in progress) and learning two languages on the side.
+
+🗣️ Currently studying: Japanese 🇯🇵 + Chinese 🇨🇳
+
+🤖🌐 Always curious: AI, web development, and the newest tools/tech trends.
+
+👨‍🏫 Teaching role: I teach beginner programming concepts in Java and Python at a community college.
+
+🎧🛠️ Customer-first tech support: Help desk technician for a robotics company—solving problems while keeping users happy.
 
 
 # 💻 Tech Stack:
