@@ -2,6 +2,8 @@
 LEGO LOVERS, - Love buiding stuffs
 
 - 🔭 I’ve been working in tech for over 10 years, with a deep understanding of both hardware and software. I’m pursuing a master’s degree in Computer Science and currently learning two languages.
+- 🌱 I’m currently learning Japanese and also Chinnese.
+- 
 
 <!--
 **duchuycao15/duchuycao15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
