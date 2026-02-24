@@ -3,11 +3,8 @@ LEGO LOVERS, - Love buiding stuffs
 
 🔧💻 10+ years in tech with hands-on experience in both hardware and software.
 
-🎓 Master’s in Computer Science (in progress) and learning two languages on the side.
 
-🗣️ Currently studying: Japanese 🇯🇵 + Chinese 🇨🇳
-
-🤖🌐 Always curious: AI, web development, and the newest tools/tech trends.
+🗣️ Currently studying: Japanese 🇯🇵 
 
 👨‍🏫 Teaching role: I teach beginner programming concepts in Java and Python at a community college.
 
