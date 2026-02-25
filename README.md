@@ -1,5 +1,5 @@
 ## Hi there 👋
-LEGO LOVERS, - Love buiding stuffs
+LEGO LOVERS, - Love buiding stuffs and love to learn
 
 💻 10+ years in tech with hands-on experience in both hardware and software, good at English, Vietnamese
 
