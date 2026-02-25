@@ -1,14 +1,14 @@
 ## Hi there 👋
 LEGO LOVERS, - Love buiding stuffs
 
-🔧💻 10+ years in tech with hands-on experience in both hardware and software.
+💻 10+ years in tech with hands-on experience in both hardware and software.
 
 
 🗣️ Currently studying: Japanese 🇯🇵 
 
 👨‍🏫 Teaching role: I teach beginner programming concepts in Java and Python at a community college.
 
-🎧🛠️ Customer-first tech support: Help desk technician for a robotics company, solving problems while keeping users happy.
+🛠️ Customer-first tech support: Help desk technician for a robotics company, solving problems while keeping users happy.
 
 
 # 💻 Tech Stack:
