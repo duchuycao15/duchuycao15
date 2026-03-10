@@ -11,6 +11,8 @@ LEGO LOVERS, - Love buiding stuffs and love to learn and love talking photos.
 
 📫 How to reach me: huydccao@gmail.com, https://www.linkedin.com/in/duchuycao1/
 
+https://leetcode.com/, stackoverflow
+
 I love Anime and Movies like Jujutsu Kaisen and Naruto
 
 
