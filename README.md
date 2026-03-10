@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🙋🏻‍♂️
 LEGO LOVERS, - Love buiding stuffs and love to learn and love talking photos. 
 
 💻 10+ years in tech with hands-on experience in both hardware and software, good at English, Vietnamese
@@ -10,6 +10,8 @@ LEGO LOVERS, - Love buiding stuffs and love to learn and love talking photos.
 🛠️ Customer-first tech support: Help desk technician for a robotics company, solving problems while keeping users happy.
 
 📫 How to reach me: huydccao@gmail.com, https://www.linkedin.com/in/duchuycao1/
+
+I love Anime and Movies like Jujutsu Kaisen and Naruto
 
 
 # 💻 Tech Stack:
