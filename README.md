@@ -1,6 +1,6 @@
 ## Hi there 🙋🏻‍♂️
 
-Love to learn and LEGO LOVERS, - Love buiding stuffs and love to learn and love talking photos. 
+Love working and love learning and LEGO LOVERS, - Love buiding stuffs and love to learn and love talking photos. 
 
 💻 10+ years in tech with hands-on experience in both hardware and software, good at English, Vietnamese
 
