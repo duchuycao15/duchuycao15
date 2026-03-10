@@ -1,20 +1,28 @@
 ## Hi there 🙋🏻‍♂️
 
-Love working and love learning and LEGO LOVERS, - Love buiding stuffs and love to learn and love talking photos. 
+🔧 10+ years in tech – hands‑on experience in both hardware and software; fluent in English and Vietnamese.
 
-💻 10+ years in tech with hands-on experience in both hardware and software, good at English, Vietnamese
+🧩 LEGO lover – enjoy building and sharing creative projects.
 
-🌱 Currently studying: Japanese 🇯🇵 
+📸 Photographer & storyteller – love learning and sharing photos with friends.
 
-👨‍🏫 Teaching role: I teach beginner programming concepts in Java and Python at a community college.
+🌱 Language enthusiast – currently studying Japanese 🇯🇵.
 
-🛠️ Customer-first tech support: Help desk technician for a robotics company, solving problems while keeping users happy.
+👨‍🏫 Teaching role – mentor beginners in Java and Python at a community college.
 
-📫 How to reach me: huydccao@gmail.com, https://www.linkedin.com/in/duchuycao1/
+🤝 Customer‑first support – help‑desk technician at a robotics company, solving problems while keeping users happy.
 
-https://leetcode.com/, stackoverflow
+🌐 Always learning – AI, web development, and cloud computing are my next big adventures.
 
-I love Anime and Movies like Jujutsu Kaisen and Naruto
+🎬 Anime & movie fan – Jujutsu Kaisen, Naruto, and other great stories.
+
+📬 Reach me
+
+Email: huydccao@gmail.com
+LinkedIn: 
+LeetCode: https://leetcode.com/
+Stack Overflow: https://stackoverflow.com/
+Thanks for reading, and let’s keep building and learning together! 🚀
 
 
 # 💻 Tech Stack:
