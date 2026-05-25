@@ -19,7 +19,7 @@
 📬 Reach me
 
 Email: huydccao@gmail.com
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/duchuycao1/
 LeetCode: https://leetcode.com/
 Stack Overflow: https://stackoverflow.com/
 Thanks for reading, and let’s keep building and learning together! 🚀
