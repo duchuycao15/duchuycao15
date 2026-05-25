@@ -4,7 +4,7 @@
 
 🧩 LEGO lover – enjoy building and sharing creative projects.
 
-📸 Photographer & storyteller – love learning and sharing photos with friends.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Hello%2C+I'm+Duc+Huy;Welcome+to+my+GitHub+profile;I+love+coding+and+retro+UI) 📸 Photographer & storyteller – love learning and sharing photos with friends.
 
 🌱 Language enthusiast – currently studying Japanese 🇯🇵.
 
