@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Hello%2C+I'm+Duc+Huy;Welcome+to+my+GitHub+profile;I+love+coding+and+retro+UI) 🙋🏻‍♂️
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Hello%2C+I'm+Duc+Huy;Welcome+to+my+GitHub+profile;I+love+coding+and+retro+UI)
 
 🔧 10+ years in techfiled relative – hands‑on experience in both hardware and software; fluent in English and Vietnamese.
 
