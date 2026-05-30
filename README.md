@@ -2,6 +2,8 @@
 
 Portfolio: https://duchuycao15.github.io/Myportfolio/
 
+Software engrigng / IT help desk technicain / Tutor 
+
 🔧 10+ years in techfiled relative – hands‑on experience in both hardware and software; fluent in English and Vietnamese.
 
 🧩 LEGO lover – enjoy building and sharing creative projects.
